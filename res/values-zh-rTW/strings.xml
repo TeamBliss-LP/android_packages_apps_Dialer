@@ -201,4 +201,10 @@
     <string name="respond_via_sms_setting_title" msgid="1318281521087951580">"快速回應"</string>
     <string name="call_settings_label" msgid="7416182166943714852">"通話設定"</string>
     <string name="call_settings_description" msgid="2756622428019213052">"語音信箱、來電插撥和其他設定"</string>
+    <string name="device_id">設備識別</string>
+    <string name="call_log_show_all_slots">"所有卡"</string>
+    <string name="call_log_all_calls_header">"所有通話"</string>
+    <string name="calllog_search_hint">"搜索通話記錄"</string>
+    <string name="add_to_white_list">加入白名單</string>
+    <string name="add_to_black_list">加入黑名單</string>
 </resources>
